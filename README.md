@@ -39,15 +39,18 @@ This project was built using React and ECharts, a powerful visualization library
 
 -> Mobile View
 
-![mobile](https://user-images.githubusercontent.com/93445615/231808358-aea98426-3c4a-422b-bd73-d324a5fb073f.png)
+![mobile]
+![new chart for mobile](https://user-images.githubusercontent.com/93445615/231870514-a7288104-9306-432b-ae44-62426f53af64.png)
+
 
 
 -> Tablet View
-![tablet ](https://user-images.githubusercontent.com/93445615/231808620-669131ba-d8a4-40bd-8794-4a291fea41ea.png)
+![for the tablets](https://user-images.githubusercontent.com/93445615/231870563-ff11b7d7-936d-4da1-9eb6-093c645efc4c.png)
+
+-> Laptop View
+
+![for laptop](https://user-images.githubusercontent.com/93445615/231870684-b039d197-26bd-43a5-9276-c6e88f94c261.png)
 
 -> Desktop View
 
-![bar-chart](https://user-images.githubusercontent.com/93445615/231808802-79bd47cd-8265-4286-80ba-2c41b80a98cf.png)
-
-![Screenshot 2023-04-13 194143](https://user-images.githubusercontent.com/93445615/231808916-272fe3ca-eebf-44a5-8b92-a8a2142bd6af.png)
-![Screenshot 2023-04-13 204442](https://user-images.githubusercontent.com/93445615/231808947-386a14f0-1ab7-4877-b03c-9bf29265b035.png)
+![newchart desktop](https://user-images.githubusercontent.com/93445615/231870611-766f2e3c-8b2c-4905-ba52-ceb754c028ed.png)
