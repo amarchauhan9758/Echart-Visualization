@@ -1,46 +1,47 @@
-# Getting Started with Create React App
+# Echart-Visualization
+Getting Started with Create React App
+This project was typescript with Create React App.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
+Available Scripts
 In the project directory, you can run:
 
-### `npm start`
+ # npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
+# npm run build
+Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Description
+Wine Data Visualization This project visualizes the magnesium content of different types of wine using bar and scatter charts. The data set used in this project is the Wine Data Set, which contains the results of a chemical analysis of wines grown in a specific area in Italy.
 
-### `npm run eject`
+The bar chart displays the magnesium content of Red Wine, White Wine, Fratelli Sette, Sparkling Wine, and Yellow Wine. The x-axis represents the type of wine, while the y-axis represents the magnesium content. The colors of the bars are determined based on the screen size of the device used to view the chart.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+The scatter chart displays the relationship between flavanoids and ash in the wine data set. The x-axis represents flavanoids, while the y-axis represents ash. The chart is interactive and allows users to zoom in and out, as well as hover over data points to view the corresponding values.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project was built using React and ECharts, a powerful visualization library for JavaScript.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Demo of the project
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Mobile View
 
-## Learn More
+![new chart for mobile](https://user-images.githubusercontent.com/93445615/231872510-a737c489-6353-4c1b-832a-9b17d52b2f51.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Tablets View
+
+![for the tablets](https://user-images.githubusercontent.com/93445615/231872576-0c9db359-ecef-4a8b-8941-d570f0cd93a5.png)
+
+
+# Laptop View 
+
+![for laptop](https://user-images.githubusercontent.com/93445615/231872632-a8d4ff34-476d-4c59-9979-18089d870148.png)
+
+
+# Desktop View 
+
+![newchart desktop](https://user-images.githubusercontent.com/93445615/231872689-e0cb35dc-bcaa-4712-b15d-438311e9a627.png)
