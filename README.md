@@ -48,4 +48,4 @@ This project was built using React and ECharts, a powerful visualization library
 
 
 
-# Hi there, I was wondering if you could take a look at my work and give me some feedback? I would really appreciate it. Thankyou
+Hi there, I was wondering if you could take a look at my work and give me some feedback? I would really appreciate it. Thankyou..
