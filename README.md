@@ -45,3 +45,7 @@ This project was built using React and ECharts, a powerful visualization library
 # Desktop View 
 
 ![newchart desktop](https://user-images.githubusercontent.com/93445615/231872689-e0cb35dc-bcaa-4712-b15d-438311e9a627.png)
+
+
+
+# Hi there, I was wondering if you could take a look at my work and give me some feedback? I would really appreciate it. Thankyou
