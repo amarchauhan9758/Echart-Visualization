@@ -9,7 +9,7 @@ interface ScatterChartProps {
 function LineChart({ ash, flavanoids }: ScatterChartProps) {
   const options = {
     title: {
-      text: "Wine Data In Line Chart",
+      text: "Wine Data In Line Graph",
     },
     tooltip: {
       trigger: "axis",
