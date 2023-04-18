@@ -28,23 +28,23 @@ This project was built using React and ECharts, a powerful visualization library
 # Demo of the project
 
 # Mobile View
-
-![new chart for mobile](https://user-images.githubusercontent.com/93445615/231872510-a737c489-6353-4c1b-832a-9b17d52b2f51.png)
+![mobile-view](https://user-images.githubusercontent.com/93445615/232742322-5a0e3e75-8bff-4efc-8988-26f4e953434f.png)
+iew
 
 
 # Tablets View
-
-![for the tablets](https://user-images.githubusercontent.com/93445615/231872576-0c9db359-ecef-4a8b-8941-d570f0cd93a5.png)
+![tabelt](https://user-images.githubusercontent.com/93445615/232742457-a5802d6d-36a9-4489-9178-b3d688124d1f.png)
 
 
 # Laptop View 
+![tabelt](https://user-images.githubusercontent.com/93445615/232742457-a5802d6d-36a9-4489-9178-b3d688124d1f.png)
 
 ![for laptop](https://user-images.githubusercontent.com/93445615/231872632-a8d4ff34-476d-4c59-9979-18089d870148.png)
 
 
 # Desktop View 
 
-![newchart desktop](https://user-images.githubusercontent.com/93445615/231872689-e0cb35dc-bcaa-4712-b15d-438311e9a627.png)
+![latest-desktop-view](https://user-images.githubusercontent.com/93445615/232742641-b2d340b9-f1c3-49eb-b6b8-461bba6b8918.png)
 
 
 
