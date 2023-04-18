@@ -39,7 +39,7 @@ iew
 # Laptop View 
 ![tabelt](https://user-images.githubusercontent.com/93445615/232742457-a5802d6d-36a9-4489-9178-b3d688124d1f.png)
 
-![for laptop](https://user-images.githubusercontent.com/93445615/231872632-a8d4ff34-476d-4c59-9979-18089d870148.png)
+
 
 
 # Desktop View 
